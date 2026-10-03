@@ -1,0 +1,38 @@
+CONFIDENTIAL – INSTITUTIONAL EQUITY RISK & RESEARCH
+This report is for informational and risk-modeling purposes only. It does not constitute investment, financial, or trading advice. Market participants should conduct independent due diligence.
+EQUITY RISK MANAGEMENT PROFILE: GENUS PLC (LSE: GNS)
+Sector: Agricultural Biotechnology & Animal Genetics
+Report Type: Event Risk, 12-Month Structural Outlook, & Cross-Sectional Scenarios
+Date: September 9, 2026
+1. Executive Summary & Catalyst Overview
+Genus plc operates at the intersection of agricultural commodities, proprietary biotechnology, and global supply chain logistics. The company is currently undergoing a structural transition from a conventional selective breeding supplier to an intellectual property (IP) licensing entity.
+Immediate Catalyst: The release of the FY26 Preliminary Results scheduled for tomorrow, September 10, 2026. Following an exceptionally strong H1 FY26 report (where Adjusted Profit Before Tax surged to £55.7m), management guided that full-year FY26 Adjusted PBT will print "moderately above the top end" of consensus estimates (£82.7m – £85.0m). Tomorrow's tape will test whether the market applies an "agricultural" or a "biotechnology" multiple to these earnings.
+2. Structural & Fundamental Risk Model (12-Month Horizon)
+Applying the strategic transition architecture to Genus’s trailing metrics reveals a company successfully pivoting toward a high-margin, asset-light model.
+* Capital Core (Balance Sheet Sovereignty): Genus has systematically fortified its balance sheet. Net debt to adjusted EBITDA improved to 1.4x in H1 FY26 (down from 1.5x at the end of FY25). This leverage profile provides the liquidity required to underwrite the global commercialization of PRRS-resistant (PRP) genetics without dilutive equity raises.
+* Operational Pipelines (Margin Expansion): The divergence between Genus's top and bottom lines is the primary feature of their current operations. While H1 FY26 revenue was flat, the Porcine (PIC) division saw its adjusted operating profit margin explode by 640 bps to a record 34.5%. Similarly, the Bovine (ABS) division's restructuring (Value Acceleration Programme) drove a 27% increase in adjusted operating profit despite challenging global dairy cycles.
+* Executive Governance (IP Transition): The receipt of the $7.5m milestone from the Beijing Capital Agribusiness (BCA) joint venture in H1 FY26 proves Genus can successfully monetize its IP in restricted markets without bearing localized physical supply-chain risks.
+3. Forward Scenario Matrix (FY26 Actuals & FY27 Forward)
+The following baseline metrics utilize actual FY25 reported data and project FY26/FY27 ranges based on the H1 FY26 run-rate and management guidance.
+| Key Accounting Line | FY25 Actuals (Baseline) | Bear Case (Regulatory Drag) | Base Case (Guided Run-Rate) | Bull Case (Platform Citadel) |
+|---|---|---|---|---|
+| Adjusted Group Revenue | £672.8m | £665m – £675m | £680m – £695m | £710m – £730m |
+| Adjusted Operating Profit | £93.1m (inc. JVs) | £95m – £105m | £108m – £115m | £120m – £135m |
+| Adjusted Profit Before Tax | £74.3m | £78m – £84m | £86m – £94m | £105m – £115m |
+| Adjusted Basic EPS | 81.8p | 85.0p – 90.0p | 95.0p – 102.0p | 115.0p – 125.0p |
+| Free Cash Flow (FCF) | £40.9m | £25m – £35m | £45m – £55m | £70m – £85m |
+| Net Debt / Adj. EBITDA | 1.5x | 1.5x – 1.8x | 1.2x – 1.4x | < 1.0x |
+4. Conditional "If/Then" Cross-Sectional Scenarios
+Accounting lines rarely move in uniform buckets. Because Genus operates across bifurcated divisions (high-margin Porcine vs. cyclical Bovine) and relies on staggered regulatory approvals, quantitative models must account for cross-sectional volatility.
+Scenario A: The "Asset-Light Forced Acceleration"
+* IF: Global biosecurity threats (e.g., African Swine Fever) force prolonged cross-border shipping halts (Supply Chain Bear) AND the US FDA / Canada PRRSv gene-edited approvals are fully commercialized (Platform Bull).
+* THEN: Revenue stagnates, but Margins and Cash Flow surge. Genus is forced to abandon physical live-animal shipping faster than anticipated, pivoting entirely to frozen semen, embryos, and localized licensing.
+   * Accounting Impact: Statutory revenue may miss the base case (£670m), but Adjusted Operating Margins in PIC will cross 36% due to the elimination of physical logistics costs. Free Cash Flow conversion will exceed 115%, driving Net Debt / EBITDA below 1.0x.
+Scenario B: The "Bifurcated Market"
+* IF: The global dairy cycle experiences a severe, prolonged contraction limiting farmer capital expenditure (Market Bear) AND the BCA joint venture in China successfully scales localized porcine royalties (Commercial Bull).
+* THEN: The consolidated bottom line holds, but division valuations diverge.
+   * Accounting Impact: The ABS (Bovine) division sees revenue and operating profit contract, threatening to pull total Adjusted PBT below £85m. However, the 34.5%+ margin of the PIC (Porcine) division absorbs the shock. The overall Adjusted PBT hits the £88m Base Case, but the market heavily discounts the Bovine division, preventing the stock from achieving a true biotechnology multiple.
+Scenario C: The "Regulatory Capital Drain"
+* IF: Secondary international markets (Mexico, Japan, EU) demand extended, multi-year longitudinal studies before accepting the PRRS-resistant genetics (Regulatory Bear) AND Genus continues aggressive R&D headcount expansion (Operational Bull assumption).
+* THEN: Margins compress as R&D costs outpace royalty monetization.
+   * Accounting Impact: Genus must hold elevated operating expenses on its balance sheet without the offsetting high-margin IP revenue. Adjusted Operating Profit drops back toward the £95m floor. Net Debt / EBITDA expands back toward 1.8x as the company burns through the £40.9m baseline Free Cash Flow to fund stranded biological assets.

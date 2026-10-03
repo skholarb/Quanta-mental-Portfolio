@@ -1,0 +1,98 @@
+Institutional Equity Research Report: KNOT Offshore Partners LP (NYSE: KNOP)
+Filing Reference: SEC Form 20-F Annual Baseline | Form 6-K Interim Disclosures
+Cross-Asset Maritime Supply Chain Alignment: Kongsberg DP Telemetry | Wärtsilä Propulsion Overhauls | DNV/ABS Hull Surveys | COSCO Heavy / Remontowa Yard Berths
+Downstream Capital Off-Take Lock-in: $881.2M Contracted Revenue Backlog (Petrobras Pre-Salt, Equinor Johan Castberg, Eni, Shell)
+
+Hardware & Fleet Health Index: 8.2 / 10 (DP Telemetry 99%+ Uptime; Yard Berths Secured; Floating-Rate Debt Amortizing)
+Recalibrated Risk-Weighted Fundamental Target Range: $12.75 – $14.85 (Consolidated Base Band: $13.20 – $15.40)
+1. Executive Summary & Dual-Transmission Mechanics
+[UPSTREAM PHYSICAL HARDWARE]               [INTERMEDIATE ASSET]               [DOWNSTREAM COUNTERPARTY BOOKS]
+  Kongsberg Dynamic Positioning                 KNOP Fleet                       Petrobras / Equinor / Shell
+  Wärtsilä Dual-Fuel Engines     ──►   19 Dynamic Positioning Shuttle   ──►     • Prevents FPSO Production Halts
+  COSCO / Remontowa Drydocks             Tankers (100% 2H26 Backlog)            • Capitalized IFRS 16 Leases
+(Mandatory Special Surveys)            ($881.2M Contracted Revenue)            • Guaranteed Crude Off-Take
+
+KNOP functions as an essential, non-substitutable floating pipeline system. Deepwater Floating Production Storage and Offloading (FPSO) units lack subsea pipeline infrastructure to shore; without continuous DP shuttle tanker offloading, FPSO storage buffers breach within days, forcing well shut-ins. This dynamic locks in high contract renewal urgency among Tier-1 operators.
+* Upstream Physical Clearances: Synchronized OEM components (Kongsberg DP sensors, MacGregor Bow Loading Systems) and committed shipyard slots maintain a 96.8% scheduled operational utilization rate.
+* Downstream Off-Take Lock-In: Multi-year commitments—anchored by the newly acquired 2024-built Hedda Knutsen (chartered to Petrobras through November 2034) and the Ingrid Knutsen 3-year extension with Eni—secure an $881.2M firm revenue backlog, immunizing daily operating cash flows against spot shipping volatility.
+2. The 6-Tier Marine Infrastructure Architecture
+┌─────────────────────────────────────────────────────────────────────────┐
+│ 1. UPSTREAM DRYDOCKS & HULL REBUILDING (COSCO / REMONTOWA / VARD)       │
+│    • Form 20-F: Capitalized Drydocking Expenditures ($18M–$26M run-rate)│
+│    • Mandatory DNV/ABS 2.5-year Intermediate and 5-year Special Surveys │
+└───────────────────────────────────┬─────────────────────────────────────┘
+                                    │
+                                    ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│ 2. DYNAMIC POSITIONING & SENSOR SUITES (KONGSBERG MARITIME)            │
+│    • Form 20-F: Vessel Operating Expenses (OPEX) – Spares & Software    │
+│    • DP2/DP3 redundant acoustic transceivers for zero-drift positioning │
+└──────────────────┬──────────────────────────────────┬───────────────────┘
+                   │                                  │
+                   ▼                                  ▼
+┌───────────────────────────────────────┐  ┌──────────────────────────────┐
+│ 3. MAIN PROPULSION & GENERATION       │  │ 4. BOW LOADING SYSTEMS (BLS) │
+│    (WÄRTSILÄ / MAN ENERGY SOLUTIONS)  │  │    (MACGREGOR / NOV)         │
+│    • Low-speed 2-stroke propulsion    │  │    • Hydraulic coupler clamps │
+│    • Dual-fuel LNG / MGO conversions  │  │      locking to FPSO tandem  │
+└──────────────────┬────────────────────┘  └──────────────┬───────────────┘
+                   │                                      │
+                   └──────────────────┬───────────────────┘
+                                      │
+                                      ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│ 5. FINANCING SYNDICATES & CASH SWEEPS (DNB / NORDEA / ABN AMRO)         │
+│    • Form 6-K: $225M Senior Secured Refinancing closed August 2026      │
+│    • Eliminates near-term balloon debt; margin set at SOFR + 1.65%      │
+└─────────────────────────────────────┬───────────────────────────────────┘
+                                      │
+                                      ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│ 6. SPONSOR ASSET PIPELINE (KNUTSEN NYK OFFSHORE TANKERS AS)             │
+│    • Form 6-K: Dropped down Hedda Knutsen for $113.0M ($24.4M net cash) │
+│    • Provides sponsor inventory drop-downs without speculative yard risk│
+└─────────────────────────────────────┬───────────────────────────────────┘
+                                      │
+                                      ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│                    KNOT OFFSHORE PARTNERS LP (KNOP)                     │
+│    Form 20-F Baseline: $360M–$370M Run-Rate | $220M–$230M Adj. EBITDA   │
+│    High Backlog Coverage Driving Multi-Year Balance Sheet De-leveraging │
+└─────────────────────────────────────────────────────────────────────────┘
+
+3. Quantitative Scenario Matrix & SEC Line-Item Ranges
+The model incorporates contracted vessel backlog, drydock scope management, benchmark interest rate exposure, and credit facility amortization schedules:
+| Financial Metric (Form 20-F / 6-K) | Audited Run-Rate Baseline | Bear Case Range (15% Prob) | Base Case Range (65% Prob) | Bull Case Range (20% Prob) | Multi-Tier Operational & Financial Levers |
+|---|---|---|---|---|---|
+| Total Vessel Revenues | $360.0M – $370.0M | $310.0M – $328.0M | $368.0M – $382.0M | $400.0M – $422.0M | Gated by contract renewal cadence; Bull incorporates Hedda Knutsen full-year accretion and drop-down pacing. |
+| Vessel Operating Expenses | $130.0M – $135.0M | $142.0M – $149.0M | $129.0M – $134.0M | $122.0M – $127.0M | Kongsberg/Wärtsilä OEM component lead-times, spare parts freight, and mariner wage indexation. |
+| General & Administrative | $9.5M – $10.5M | $11.5M – $13.0M | $9.5M – $10.2M | $8.8M – $9.4M | Legal/advisory costs associated with syndicated facility documentation and sponsor management fees. |
+| Adjusted EBITDA | $220.0M – $230.0M | $165.0M – $178.0M | $228.0M – $242.0M | $262.0M – $280.0M | Core cash operating engine before debt service and maintenance capital requirements. |
+| Net Interest Expense | $56.0M – $60.0M | $63.0M – $68.0M | $52.0M – $56.0M | $44.0M – $48.0M | Benefits from $225M facility refinancing at SOFR + 1.65% against remaining unhedged floating debt. |
+| Capitalized Drydocking (CapEx) | $20.0M – $25.0M | $30.0M – $38.0M | $19.0M – $24.0M | $14.0M – $18.0M | Yard drydock availability (Remontowa/Vard) and DNV/ABS special survey scope control. |
+| Scheduled Principal Amortization | $110.0M – $120.0M | $125.0M – $135.0M | $105.0M – $115.0M | $90.0M – $100.0M | Mandatory quarterly debt step-downs across syndicated term facilities and credit lines. |
+| Distributable Cash Flow (DCF) | $35.0M – $45.0M | $0.0M – $8.0M | $42.0M – $54.0M | $72.0M – $88.0M | DCF available for discretionary capital allocation (unit distribution hikes vs. debt prepayments). |
+| Target Distribution / Unit (Annual) | $0.30 (current) | $0.104 (floor baseline) | $0.40 – $0.60 | $0.90 – $1.30 | Payout supported by board guidance toward gradual distribution increases. |
+| Implied Equity Value Range / Unit | — | $1.10 – $1.90 | $13.20 – $15.40 | $19.80 – $23.50 | Discounted Free Cash Flow (FCF) and enterprise DCF yield range across 35.5M common units. |
+4. SEC Balance Sheet Diagnostics & Dual-Transmission Mechanics
+  [UPSTREAM CREDITORS & COVENANTS]                      [DOWNSTREAM CASH FLOW DEPLOYMENT]
+  $905.9M Total Debt Obligations  ──►  Operating Cash  ──►  $105M–$115M Annual Principal Paydown
+  ($225M Refinanced Through 2031)        Flow Engine        $143.3M Total Liquidity Retention Buffer
+
+Upstream Note Commitments: Bank Debt Amortization as a Cash Drain
+* The Partnership carries $905.9M in total interest-bearing debt across syndicated term loans and revolving credit lines.
+* While the August 2026 closing of the $225M term loan facility eliminated immediate default risk, mandatory amortization across the remaining credit facilities requires $105M–$115M annually, absorbing operating cash flow directly from the top line.
+Downstream Charter Backlog: Contracted Revenue Stability
+* Balancing these balance sheet obligations is an $881.2M firm contracted backlog with high-credit counterparties (100% contracted for 2H 2026; ~97% for 1H 2027).
+* Downstream charterers capitalize these commitments under IFRS 16 / ASC 842 as long-term lease liabilities, ensuring KNOP’s cash flow velocity remains insulated from broader maritime commodity spot rate swings.
+5. Valuation Metric Ranges & Probability Weighting
+Consolidated Risk-Weighted Target Range: $12.75 – $14.85
+├─ Bear Range (15% Weight): $1.10 – $1.90 ──► Contribution: $0.17 – $0.29
+├─ Base Range (65% Weight): $13.20 – $15.40 ──► Contribution: $8.58 – $10.01
+└─ Bull Range (20% Weight): $19.80 – $23.50 ──► Contribution: $3.96 – $4.70
+= Prevailing Market Price Reference: ~$10.60 – $11.00
+
+Step-by-Step Scenario Diagnostics
+* Bear Band ($1.10 – $1.90): Reflects severe charter counterparty non-renewals on older tonnage, shipyard survey cost inflation, and unhedged floating interest rate spikes that trap Distributable Cash Flow near zero.
+* Base Band ($13.20 – $15.40): Supported by the current 100% 2H 2026 contract coverage, smooth debt amortization, and gradual quarterly distribution step-ups toward $0.10–$0.15/unit ($0.40–$0.60 annualized).
+* Bull Band ($19.80 – $23.50): Assumes Brazilian Pre-Salt demand creates structural shuttle tanker deficits, prompting additional drop-downs from Knutsen NYK and driving distribution capacity toward $1.00+/unit annualized.

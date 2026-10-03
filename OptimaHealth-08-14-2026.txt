@@ -1,0 +1,32 @@
+Institutional Equity Research Report
+
+
+Date: August 14, 2026
+Subject: Optima Health PLC (LON: OPT) — Fundamental Equity Update & Scenario Modeling
+Ticker: OPT.L (AIM)
+Executive Summary
+Optima Health PLC is scaling rapidly as the UK’s leading technology-enabled corporate health and wellbeing provider. Following the transformational £100 million acquisition of PAM Healthcare Limited in March 2026, the business has re-engineered its operational footprint.
+With FY26 revenue printing at ~£121 million (a 15% year-on-year increase) and adjusted EBITDA tracking c.10% ahead of market consensus (£18.1 million baseline), Optima is executing on its structural roadmap toward medium-term targets of £200 million revenue and £40 million adjusted EBITDA.
+Key Fundamental Drivers
+The operational architecture relies on structural scaling, strict internal controls, and network consolidation. Based on public filings and operational disclosures, the fundamental drivers are categorized below:
+1. External Scale & Network Consolidation (The "Frictionless Ecosystem")
+* PAM Healthcare Integration Velocity: The £100 million acquisition of PAM significantly expands B2B and public sector reach. Initial integration has moved rapidly, with £1.3 million in annualized cost synergies already realized as of June 2026.
+* Public Sector and Legal Windfalls: The resolution of the Department for Work and Pensions (DWP) procurement dispute yielded £4.7 million in total other operating income (£2.3 million in H1, £2.4 million in H2), solidifying institutional credibility and cash generation.
+* Contract Pipeline Realization: Core annualized new business wins for Optima standalone stood at £10.8 million in FY26, underpinned by major frameworks such as the UK Armed Forces medical assessment contract delivered alongside Serco.
+2. Internal Margin Protection & Anti-Chaos Infrastructure (The "Internal Support Framework")
+* Operating Leverage & Cost Disciplines: Managing a combined workforce of over 2,000 staff requires rigorous operational controls. Optima's digital triage platform reduces administrative friction, protecting EBITDA margins against UK wage inflation and National Insurance headwinds.
+* Balance Sheet Management: Following the acquisition debt load, the group completed an underwritten Open Offer equity raise in April 2026, successfully paying down the £30 million shareholder bridging loan and stabilizing net debt (excluding leases) at £94.4 million at the fiscal year-end, with leverage trending down as EBITDA expands.
+Scenario Modeling: Bull, Base, and Bear Cases
+The following financial models scale the business from its current FY26 run-rate toward the stated medium-term targets (£200M revenue / £40M EBITDA).
+| Metric | Bear Case | Base Case | Bull Case |
+|---|---|---|---|
+| Thesis Summary | Integration friction, wage inflation erodes margins, and slow enterprise contract uptake. | Steady integration of PAM, delivery of baseline synergies, and steady corporate wellness demand. | Accelerated cross-selling, full synergy realization exceeding £3M+, and rapid public sector wins. |
+| FY27-28 Revenue Target | £150M – £160M | £175M – £185M | £200M+ (Hitting medium-term goal early) |
+| Adjusted EBITDA Margin | 12% – 14% | 16% – 18% | 20%+ |
+| Adjusted EBITDA | £19.5M – £21.0M | £28.0M – £31.0M | £40.0M+ |
+| Net Debt / EBITDA | > 3.5x | 2.5x – 3.0x | < 2.0x |
+| Valuation Multiple (EV/EBITDA) | 8.0x | 11.0x | 14.0x |
+Investment Conclusion & Valuation Outlook
+Optima Health occupies an entrenched market position with high barriers to entry due to its proprietary technology platform and accredited clinical infrastructure.
+* The Base Case View: The successful absorption of PAM Healthcare and realization of early cost synergies validate management's capital allocation strategy. As the business amortizes integration costs and scales digital delivery, conversion of top-line expansion (£121M) into free cash flow will justify a re-rating on the AIM market.
+* Risk Factors: Key risks include wage inflation in clinical staff, delayed integration milestones for acquired entities, and potential execution risks on large-scale public sector tenders.

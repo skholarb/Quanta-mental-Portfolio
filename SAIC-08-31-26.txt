@@ -1,0 +1,47 @@
+Institutional Equity Research Report: Science Applications International Corp. (NASDAQ: SAIC)
+Filing Reference: Form 10-K Audited Annual Baseline & Form 8-K Operational Disclosures
+Cross-Vector Federal Alignment: DoD Budget Pacing | IDIQ/GWAC Vehicle Penetration | Prime Subcontractor Network
+Recalibrated Risk-Weighted Fundamental Target: $148.50 (Base: $132.00 | Bull: $165.00)
+1. Executive Summary & Investment Thesis
+Science Applications International Corp. operates as a premier federal systems integrator, translating complex Department of Defense, intelligence, and civilian agency requirements into secure, scalable digital architectures. Grounded in audited Form 10-K baseline metrics—approximately \$7.3\text{ billion} in trailing revenue, operating margins near 9.0\%, and robust free cash flow conversion—the enterprise functions as a high-integrity execution engine for mission-critical federal IT.
+       [FEDERAL PROCUREMENT VEHICLES]              [CONTRACT EXECUTION FABRIC]
+  IDIQ / GWACs (OASIS+, Alliant) ──► SAIC Prime Systems Integration ──► Multi-Cloud (AWS/Azure via TCloud)
+  (Guaranteed Ceiling Access)                      (Fixed-Price Optimization)        (Secured Mission-IT Delivery)
+
+This valuation framework connects federal contract vehicles to baseline revenue conversion:
+* Backlog Visibility: Funded and total contract backlog tiers provide multi-year revenue visibility, insulating baseline cash flows against short-term federal budget friction.
+* Contract Mix Optimization: Expanding the proportion of Firm-Fixed-Price (FFP) contracts relative to Cost-Reimbursable (CR) structures drives operating leverage past the 9\% threshold.
+2. The 4-Tier Federal Contract & Execution Architecture
+An enterprise IT modernization task order cannot convert into revenue without navigating four structural tiers:
+* a. Federal Procurement Vehicles & GWACs (OASIS+, Alliant, JWCC): Multi-billion dollar indefinite-delivery/indefinite-quantity (IDIQ) framework that establishes the macro ceiling for agency task-order bidding and bypasses open-market delays.
+* b. Backlog Composition & Funded Visibility (Form 10-K): Total Contract Value (TCV) tracking near \$22\text{B}–\$23\text{B}, where funded backlog acts as the immediate revenue conversion buffer and structural baseline floor.
+* c. Contract Mix Dynamics (FFP vs. Cost-Reimbursable): Portfolio balancing between Firm-Fixed-Price (FFP) contracts for margin expansion and Cost-Reimbursable (CR) structures for predictable baseline stability.
+* d. Hyperscaler & Vendor Fabric (AWS GovCloud / Azure): Secure orchestration frameworks like TCloud integrated alongside a vetted small-business sub-tier network to execute mission-critical federal IT delivery.
+3. Tier-by-Tier Operational Risk & Financial Diagnostics
+* Tier 1: Federal Procurement Vehicles & GWACs (OASIS+, Alliant, JWCC)
+   Access to pre-vetted multi-agency contract vehicles allows SAIC to bypass lengthy open-market bidding contests, accelerating task-order capture across defense and intelligence agencies.
+* Tier 2: Backlog Composition & Funded Visibility (Form 10-K)
+   Total backlog provides multi-year revenue predictability. Funded backlog represents authorized customer allocations, serving as the definitive metric for near-term revenue generation.
+* Tier 3: Contract Mix Dynamics (FFP vs. Cost-Reimbursable)
+   Shifting the portfolio toward a higher concentration of Firm-Fixed-Price (FFP) tasks allows SAIC to capture operational efficiencies, directly expanding margins when execution beats baseline estimates.
+* Tier 4: Hyperscaler & Vendor Fabric (AWS, Azure, TCloud)
+   Integration frameworks like TCloud automate compliance and secure cloud migration for federal workloads, reducing manual overhead and protecting project margins.
+4. Recalibrated Quantitative Scenario Analysis & Valuation Matrix
+The model incorporates multi-year backlog conversion and margin defense initiatives, shifting scenario probability skew to 10% Bear / 30% Base / 60% Bull:
+| Financial Metric (Form 10-K) | Audited Baseline | Bear Case (10% Prob) | Base Case (30% Prob) | Bull Case (60% Prob) | Multi-Tier Contracting & Backlog Driver |
+|---|---|---|---|---|---|
+| Total Revenue | ~$7.30 Billion | < $7.25 Billion | $7.45B – $7.55 Billion | > $7.65 Billion | Task-order conversion velocity from robust funded backlog. |
+| Operating Margin % | ~9.0% | 8.4% – 8.7% | 8.9% – 9.2% | 9.3% – 9.6% | Expansion of Firm-Fixed-Price (FFP) contract mix and matrix cost controls. |
+| Free Cash Flow (FCF) | ~$480 Million | < $430 Million | $470M – $500 Million | > $520 Million | Efficient unbilled receivables conversion and working capital management. |
+| Book-to-Bill Ratio | ~1.05x | < 0.95x | 1.05x – 1.10x | 1.15x – 1.25x | Recompete wins and new IDIQ task-order awards outpace revenue burn. |
+| Diluted EPS (GAAP) | ~$8.10 | $7.30 | $8.00 – $8.35 | $8.65+ | Supported by share repurchase programs and steady net income expansion. |
+| Target Forward P/E | — | 14.0x | 16.5x | 18.0x | Valuation multiple re-rating based on predictable cash conversion. |
+| Implied Scenario Target | — | $102.20 | $132.00 | $165.00 | Calculated as \text{EPS} \times \text{P/E}. |
+5. Form 10-K Balance Sheet Diagnostics & Working Capital Mechanics
+* Backlog Burn-Rate Efficiency: Funded backlog metrics confirm that existing contract awards provide a stable multi-year revenue floor, insulating operations against short-term federal budget stopgaps.
+* Receivables & Working Capital Facilities: Utilizing off-balance sheet receivables purchase facilities optimizes cash collection cycles, ensuring uninterrupted liquidity during government payment processing delays.
+6. Valuation Bridge: Reconciling the Model Target to Market Pricing
+Recalibrated Risk-Weighted Target: $148.50
+* Backlog Conversion Premium (+ $8.50): Predictable multi-year task-order flow from core defense and intelligence IDIQs.
+* Margin Defense Expansion (+ $6.00): Operational restructuring and FFP mix scaling protect operating leverage above the $9.0% mark.
+* Capital Return Floor (+ $4.00): Consistent dividend growth ($0.37/share quarterly) and share repurchases anchor downside valuation.
